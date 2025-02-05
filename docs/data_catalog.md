@@ -3,7 +3,8 @@
 - **Columns:**
 |Column Name| Data Type | Description
                                         |
-|-----------------|------------|----------------|--------------------|
+|------------------|---------------|-----------------------------------------------------------------------------------------------|
+
 |Customer_key | INT | Surrogate key uniquely indentifying each customer record in the dimension table. |
 | customer_id | INT | Unique numerical identifiers assigned to each customer.|
 | customer_number | NVARCHAR(50) | Alphanumeric identifier representing the customer, used for tracking and referencing.|
